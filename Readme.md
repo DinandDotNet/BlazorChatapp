@@ -8,4 +8,4 @@ Feel free to change it and build security in it.
 
 It will be maintained at least yearly when a new .net version is out for 2 mounths.
 
-Questions? Reach me on at dinand.dotnet@gmail.com. Have fun with it.
+Questions? Contact me on dinand.dotnet@gmail.com. Have fun with it.
