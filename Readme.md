@@ -1,4 +1,5 @@
-<b>Chatapp created in blazor, with a big history memory.<b>
+## Chatapp created in blazor, with a big history memory.
+  
 This project is a basic chatapp for multiple poeple to chat togther.
 
 You can just set it up a .net host page and use it. 
